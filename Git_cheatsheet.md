@@ -65,3 +65,8 @@ Make sure you are copying only the public key stored in ~/.ssh/id_rsa.pub
 
 git push -u origin master
 
+note : 
+if youwant to remove :
+git remote rm origin
+then to add use:
+git remote add origin git@github.com:username/myapp.git
