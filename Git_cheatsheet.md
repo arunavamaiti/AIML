@@ -22,7 +22,13 @@ If you are not in master then checkout to master branch using git checkout maste
 Now create a new branch feature_a and checkout to that branch
 
 ## git branch testing
-## git checkout testing
+## Create a branch and switch to it :
+git checkout -b [new_branch_name] 
+or git switch -c [new_branch_name]
+git checkout -b [new_branch_name]
+or git switch -c [new_branch_name]
+
+in our case its ,
 git checkout -b dev
 
 
